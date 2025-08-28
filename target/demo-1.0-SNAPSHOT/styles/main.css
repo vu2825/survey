@@ -1,0 +1,50 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+h1 {
+  color: #008080;
+}
+h2 {
+  color: #008080;
+}
+label {
+  display: inline-block;
+  width: 120px;
+  margin-top: 8px;
+}
+input[type="text"],
+input[type="email"],
+input[type="date"] {
+  width: 200px;
+  padding: 5px;
+}
+.section {
+  margin-top: 20px;
+}
+
+.submit-btn {
+  margin-top: 20px;
+  padding: 6px 12px;
+}
+
+.checkboxgroup {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+  white-space: nowrap; /* giữ chữ trên cùng 1 hàng */
+  margin-right: 100px;
+}
+
+.contactme {
+  white-space: nowrap;
+}
+
+.contactoption {
+  margin-left: 35px;
+}
+
+.murach_picture {
+  width: 200px;
+  height: 200px;
+}
